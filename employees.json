@@ -1,0 +1,17 @@
+{
+    "1": {
+        "name": "Gloria Eno",
+        "position": "Web Developer",
+        "salary": "100,000"
+    },
+    "2": {
+        "name": "Grace Idowu",
+        "position": "Product designer",
+        "salary": "80,000"
+    },
+    "3": {
+        "name": "Kamsin Godday",
+        "position": "Product Manager",
+        "salary": "150,000"
+    }
+}
